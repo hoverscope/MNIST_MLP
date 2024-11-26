@@ -2,6 +2,8 @@ Custom implementation of Multi Layer Perceptron in python on MNIST dataset with 
 MNIST Dataset is limited to 64 pixels instead of 784 pixels.
 Dataset1.csv is the train dataset and Dataset2.csv is the test dataset.
 
+Model is capable of higher accuracy.
+
 ![image](https://github.com/user-attachments/assets/2b10cf11-3003-42d0-9baa-2bb2e86e131f)
 
 ![image](https://github.com/user-attachments/assets/96a8b850-6b28-431f-b277-75e740591014)
