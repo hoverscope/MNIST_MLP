@@ -6,6 +6,7 @@ To build a machine learning model from scratch without existing machine learning
 The MNIST dataset is a well-known dataset for handwritten digit classification, consisting of grayscale images of handwritten digits. For this project, each image was resized to 8x8 pixels in the provided dataset, resulting in a 64-dimensional input vector for the model. The dataset consists of images labelled with digits from 0 to 9. I used multilayer perceptron (MLP) as my chosen algorithm for this dataset and achieved a test accuracy of 98.11%.
 
 2. Model Architecture and Two-Fold Testing:
+
 2.1 Model Description and Architecture
 The project was implemented using Python and NumPy. The chosen algorithm for this task as mentioned was a Multi-Layer Perceptron (MLP) with a single hidden layer. The model consists of 64 input neurons, representing the 64 pixels in each image of handwritten digits, and 10 output neurons, corresponding to the digits 0-9. The choice of 64 input neurons is due to the images being 8x8 pixels, with each pixel representing a feature, while the 10 output neurons map to the possible digit classes.
 
